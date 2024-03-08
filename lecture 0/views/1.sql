@@ -1,0 +1,1 @@
+SELECT "japanese_title","English_title" FROM "views";
